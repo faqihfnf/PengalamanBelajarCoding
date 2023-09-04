@@ -1,1 +1,1 @@
-Buat file hello.txt
+hello.txt
