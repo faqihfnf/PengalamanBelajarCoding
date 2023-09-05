@@ -27,4 +27,3 @@ Belajar kelas Memulai Pemrograman dengan Java. (Progres 100%)
 **Latihan Squashing Changes 1**
 **Latihan Squashing Changes 2**
 **Latihan Squashing Changes 3**
-
