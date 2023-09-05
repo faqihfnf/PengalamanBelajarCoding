@@ -25,4 +25,5 @@ Belajar kelas Memulai Pemrograman dengan Java. (Progres 100%)
   * Mengerjakan ujian akhir untuk menilai kemahiran diri.
 
 **Latihan Squashing Changes 1**
+**Latihan Squashing Changes 2**
 
